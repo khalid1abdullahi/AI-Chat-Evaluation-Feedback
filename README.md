@@ -1,4 +1,4 @@
-## 🧪 Lab 2: AI Chat Evaluation & Feedback Lab
+## 🧪 Lab: AI Chat Evaluation & Feedback Lab
 
 
 ### 🔍 Purpose
